@@ -1,5 +1,3 @@
-create database APIPetsETutores;
-use APIPetsETutores;
 
 CREATE DATABASE Clinica;
 USE Clinica;
